@@ -1,4 +1,4 @@
-import "./app.css";
+import "./App.css";
 import FoodItem from "./commonResource/FoodItem/FoodItem.jsx";
 import menu from "./commonResource/data.js";
 import "./commonResource/style.css";
